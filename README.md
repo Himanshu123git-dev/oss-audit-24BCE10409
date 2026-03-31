@@ -1,6 +1,6 @@
 # 🐧 Open Source Audit — Linux Kernel
-# Name: Sarthak Maurya
-# Roll No: 24BAI10269
+# Name: Himanshu Singh
+# Roll No: 24BCE10409
 
 A capstone project exploring the philosophy, architecture, and ecosystem of the **Linux Kernel** as part of an Open Source Software course.
 
@@ -113,18 +113,6 @@ Displays system-level information:
 
 ---
 
-## 🆚 Linux vs Windows (Summary)
-
-| Feature        | Linux (Open Source) | Windows (Proprietary) |
-|---------------|--------------------|-----------------------|
-| Cost          | Free               | Paid                  |
-| Source Code   | Open               | Closed                |
-| Customization | High               | Limited               |
-| Control       | Full               | Partial               |
-| Support       | Community-based    | Centralized           |
-
----
-
 ## 🌍 Key Takeaways
 
 - Linux is a **community-driven project** that scaled from a personal hobby to global infrastructure  
@@ -151,13 +139,8 @@ Displays system-level information:
 
 ## 📚 Author
 
-**Sarthak Maurya**
-Registration Number: 24BAI10269
+**Himanshu Singh**
+Registration Number: 24BCE10409
 Course: Open Source Software
 
----
 
-## 📜 License
-
-This project is for academic purposes.
-Linux Kernel referenced under **Apache 2.0**.
