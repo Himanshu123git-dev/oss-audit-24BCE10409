@@ -1,6 +1,6 @@
 # 🐧 Open Source Audit — Linux Kernel
 # Name: Himanshu Singh
-# Roll No: 24BCE10409
+# Registration No: 24BCE10409
 
 A capstone project exploring the philosophy, architecture, and ecosystem of the **Linux Kernel** as part of an Open Source Software course.
 
